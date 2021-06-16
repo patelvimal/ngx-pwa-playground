@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ngx-pwa-12673": {
+      "hosting": {
+        "ngx-pwa-playground": [
+          "ngx-pwa-12673"
+        ]
+      }
+    }
+  }
+}
